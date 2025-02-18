@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 echo Extracion de archivos ZIP.
-echo Beta 0.1. | GNU General Public License v3.0
+echo "Beta 0.1. | GNU General Public License v3.0 | Saul Ruiz"
 echo Se van a extraer todos los archivos contenidos en los archivos ZIP en el directorio actual.
 pause
 
